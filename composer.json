@@ -1,0 +1,11 @@
+{
+	"name": "thomasfw/multiple-roles",
+	"type": "wordpress-plugin",
+	"description": "",
+	"keywords": [],
+	"homepage": "https://github.com/thomasfw/multiple-roles",
+	"authors": [],
+	"require": {
+		"composer/installers": "~1.0.6"
+	}
+}
