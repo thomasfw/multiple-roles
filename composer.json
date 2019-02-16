@@ -6,6 +6,6 @@
 	"homepage": "https://github.com/thomasfw/multiple-roles",
 	"authors": [],
 	"require": {
-		"composer/installers": "~1.0.6"
+		"composer/installers": "^1.4"
 	}
 }
